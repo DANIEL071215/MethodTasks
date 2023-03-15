@@ -1,0 +1,8 @@
+C:\9d daniel\14.03.22\7\bin\Debug\7.exe.config
+C:\9d daniel\14.03.22\7\bin\Debug\7.exe
+C:\9d daniel\14.03.22\7\bin\Debug\7.pdb
+C:\9d daniel\14.03.22\7\obj\Debug\7.csproj.AssemblyReference.cache
+C:\9d daniel\14.03.22\7\obj\Debug\7.csproj.SuggestedBindingRedirects.cache
+C:\9d daniel\14.03.22\7\obj\Debug\7.csproj.CoreCompileInputs.cache
+C:\9d daniel\14.03.22\7\obj\Debug\7.exe
+C:\9d daniel\14.03.22\7\obj\Debug\7.pdb
